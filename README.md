@@ -9,3 +9,5 @@ Assumptions for the .txt file are:
                                   : any feed containing non alphabetical characters are not considered words
                                   : empty lines have been 'thrown away'
 Assumed wanted to see scripting and not solely python structure such as def
+
+How to run:  python word_scramble.py
